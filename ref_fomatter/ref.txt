@@ -1,0 +1,48 @@
+Hossein Shafiei, Ahmad Khonsari and Payam Mousavi. Serverless Computing: A Survey of Opportunities, Challenges, and Applications. ACM Comput. Surv. 2022.
+AWS Lambda: Serverless Compute. https://aws.amazon.com/lambda/.
+Google Cloud Functions. https://cloud.google.com/functions.
+Microsoft Azure Functions. https://azure.microsoft.com/en-us/services/functions/.
+Tencent Cloud Serverless Cloud Function (SCF). https://www.tencentcloud.com/products/scf.
+Alibaba Cloud Function Compute. https://www.alibabacloud.com/product/function-compute.
+Knative: Kubernetes-based Platform to Build, Deploy, and Manage Modern Serverless Workloads. https://knative.dev.
+OpenFaaS. https://www.openfaas.com/.
+OpenWhisk: A Serverless, Open Source Cloud Platform. https://openwhisk.apache.org/.
+Layotto: An application runtime developed using Golang. https://github.com/mosn/layotto.
+Kubernetes: Production-Grade Container Orchestration. https://kubernetes.io.
+Horizontal Pod Autoscaler in Kubernetes. https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/.
+Bin Wang, Ahmed Ali-Eldin and Prashant Shenoy. Lass: Running Latency Sensitive Serverless Computations at the Edge. Proceedings of the 30th International Symposium on High-Performance Parallel and Distributed Computing. 2021; 239–251.
+Amoghavarsha Suresh, Gagan Somashekar, Anandh Varadarajan, Veerendra Ramesh Kakarla, Hima Upadhyay and Anshul Gandhi. Ensure: Efficient Scheduling and Autonomous Resource Management in Serverless Environments. IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS). 2020; 1-10.
+Xue Li, Peng Kang, Jordan Molone, Wei Wang and Palden Lama. Kneescale: Efficient Resource Scaling for Serverless Computing at the Edge. 22nd IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid). 2022; 180-189.
+Amoghvarsha Suresh and Anshul Gandhi. Fnsched: An Efficient Scheduler for Serverless Functions. . 2019; 19–24.
+Arjun Singhvi, Arjun Balasubramanian, Kevin Houck, Mohammed Danish Shaikh, Shivaram Venkataraman and Aditya Akella. Atoll: A Scalable Low-Latency Serverless Platform. Proceedings of the ACM Symposium on Cloud Computing. 2021; 138–152.
+Alexander Fuerst and Prateek Sharma. Faascache: Keeping Serverless Computing Alive with Greedy-Dual Caching. Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems. 2021; 386–400.
+Chen Chen, Lars Nagel, Lin Cui and Fung Po Tso. S-Cache: Function Caching for Serverless Edge Computing. Proceedings of the 6th International Workshop on Edge Systems, Analytics and Networking. 2023; 1–6.
+and HoseinyFarahabady, M. Rezaand Taheri, Javidand Zomaya, Albert Y.and Tari, Zahir. Low Latency Execution Guarantee Under Uncertainty in Serverless Platforms. Parallel and Distributed Computing, Applications and Technologies. 2022; 324-335.
+Mohammad Shahrad, Rodrigo Fonseca, Inigo Goiri, Gohar Chaudhry, Paul Batum, Jason Cooke, Eduardo Laureano, Colby Tresness, Mark Russinovich and Ricardo Bianchini. Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at A Large Cloud Provider. USENIX Annual Technical Conference (USENIX ATC 20). 2020; 205-218.
+Ming Yan, XiaoMeng Liang, ZhiHui Lu, Jie Wu and Wei Zhang. Hansel: Adaptive Horizontal Scaling of Microservices Using Bi-Lstm. Applied Soft Computing. 2021; 107216.
+Parichehr Vahidinia, Bahar Farahani and Fereidoon Shams Aliee. Mitigating Cold Start Problem in Serverless Computing: A Reinforcement Learning Approach. IEEE Internet of Things Journal. 2023; 3917-3927.
+Rohan Basu Roy, Tirthak Patel and Devesh Tiwari. Icebreaker: Warming Serverless Functions Better with Heterogeneity. Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems. 2022; 753-767.
+Vivek M. Bhasi, Jashwant Raj Gunasekaran, Prashanth Thinakaran, Cyan Subhra Mishra, Mahmut Taylan Kandemir and Chita Das. Kraken: Adaptive Container Provisioning for Deploying Dynamic Dags in Serverless Platforms. Proceedings of the ACM Symposium on Cloud Computing. 2021; 153–167.
+Lucia Schuler, Somaya Jamil and Niklas Kühl. Ai-Based Resource Allocation: Reinforcement Learning for Adaptive Auto-Scaling in Serverless Environments. IEEE/ACM 21st International Symposium on Cluster, Cloud and Internet Computing (CCGrid). 2021; 804-811.
+Krzysztof Rzadca, Pawel Findeisen, Jacek Swiderski, Przemyslaw Zych, Przemyslaw Broniek, Jarek Kusmierek, Pawel Nowak, Beata Strack, Piotr Witusowski, Steven Hand and John Wilkes. Autopilot: Workload Autoscaling at Google. Proceedings of the Fifteenth European Conference on Computer Systems. 2020.
+Fabiana Rossi, Simone Falvo and Valeria Cardellini. Gofs: Geo-Distributed Scheduling in Openfaas. IEEE Symposium on Computers and Communications (ISCC). 2021; 1-6.
+Francescomaria Faticanti, Francesco De Pellegrini, Domenico Siracusa, Daniele Santoro and Silvio Cretti. Throughput-Aware Partitioning and Placement of Applications in Fog Computing. IEEE Transactions on Network and Service Management. 2020; 2436-2450.
+Alexander Fuerst and Prateek Sharma. Locality-Aware Load-Balancing for Serverless Clusters. Proceedings of the 31st International Symposium on High-Performance Parallel and Distributed Computing. 2022; 227-239.
+Anirban Das, Andrew Leaf, Carlos A. Varela and Stacy Patterson. Skedulix: Hybrid Cloud Scheduling for Cost-Efficient Execution of Serverless Applications. IEEE 13th International Conference on Cloud Computing (CLOUD). 2020; 609-618.
+Zijun Li, Yushi Liu, Linsong Guo, Quan Chen, Jiagan Cheng, Wenli Zheng and Minyi Guo. Faasflow: Enable Efficient Workflow Execution for Function-As-A-Service. Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems. 2022; 782–796.
+Hong Zhang, Yupeng Tang, Anurag Khandelwal, Jingrong Chen and Ion Stoica. Caerus: {Nimble} Task Scheduling for Serverless Analytics. 18th USENIX Symposium on Networked Systems Design and Implementation (NSDI 21). 2021; 653-669.
+Benjamin Carver, Jingyuan Zhang, Ao Wang, Ali Anwar, Panruo Wu and Yue Cheng. Wukong: A Scalable and Locality-Enhanced Framework for Serverless Parallel Computing. Proceedings of the 11th ACM Symposium on Cloud Computing. 2020; 1–15.
+Ashraf Mahgoub, Edgardo Barsallo Yi, Karthick Shankar, Eshaan Minocha, Sameh Elnikety, Saurabh Bagchi and Somali Chaterji. Wisefuse: Workload Characterization and Dag Transformation for Serverless Workflows. Proc. ACM Meas. Anal. Comput. Syst. 2022.
+Alexandru Agache, Marc Brooker, Alexandra Iordache, Anthony Liguori, Rolf Neugebauer, Phil Piwonka and Diana-Maria Popa. Firecracker: Lightweight Virtualization for Serverless Applications. 17th USENIX symposium on networked systems design and implementation (NSDI 20). 2020; 419-434.
+Alessandro Randazzo and Ilenia Tinnirello. Kata Containers: An Emerging Architecture for Enabling Mec Services in Fast and Secure Way. Sixth International Conference on Internet of Things: Systems, Management and Security (IOTSMS). 2019; 209-214.
+Linux Containers. https://linuxcontainers.org/.
+Docker: Empowering App Development for Developers. https://www.docker.com/.
+Windows Containers. https://docs.microsoft.com/enus/virtualization/windowscontainers/about/.
+WebAssembly: A Binary Instruction Format for a Stack-based Virtual Machine. https://webassembly.org/.
+Simon Shillaker and Peter Pietzuch. Faasm: Lightweight Isolation for Efficient Stateful Serverless Computing. USENIX Annual Technical Conference (USENIX ATC 20). 2020; 419-433.
+Changyuan Lin, Nima Mahmoudi, Caixiang Fan and Hamzeh Khazaei. Fine-Grained Performance and Cost Modeling and Optimization for Faas Applications. IEEE Transactions on Parallel and Distributed Systems. 2022; 180-194.
+Zijun Li, Chuhao Xu, Quan Chen, Jieru Zhao, Chen Chen and Minyi Guo. Dataflower: Exploiting the Data-Flow Paradigm for Serverless Workflow Orchestration. arXiv preprint arXiv:2304.14629. 2023.
+Ana Klimovic, Yawen Wang, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle and Christos Kozyrakis. Pocket: Elastic Ephemeral Storage for Serverless Analytics. 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018; 427-444.
+Ashraf Mahgoub, Li Wang, Karthick Shankar, Yiming Zhang, Huangshi Tian, Subrata Mitra, Yuxing Peng, Hongqi Wang, Ana Klimovic, Haoran Yang and others. $\{$Sonic$\}$: Application-Aware Data Passing for Chained Serverless Applications. USENIX Annual Technical Conference (USENIX ATC 21). 2021; 285-301.
+Yang Tang and Junfeng Yang. Lambdata: Optimizing Serverless Computing by Making Data intents Explicit. IEEE 13th International Conference on Cloud Computing (CLOUD). 2020; 294-303.
+Francisco Romero, Gohar Irfan Chaudhry, {\'I}{\~n}igo Goiri, Pragna Gopa, Paul Batum, Neeraja J Yadwadkar, Rodrigo Fonseca, Christos Kozyrakis and Ricardo Bianchini. Faa $ T: A Transparent Auto-Scaling Cache for Serverless Applications. Proceedings of the ACM symposium on cloud computing. 2021; 122-137.
